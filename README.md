@@ -1,2 +1,4 @@
-# problemsolving_with_python
-Python solutions to various problems
+# Problemsolving with Python
+
+## Python solutions to various problems
+
